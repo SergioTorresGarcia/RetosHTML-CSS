@@ -1,0 +1,83 @@
+body, img {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.verde {
+    color: rgb(23, 113, 23);
+}
+
+.verde2 {
+    color: rgb(36, 168, 36);
+}
+
+.naranja {
+    color: rgb(181, 123, 14);
+}
+
+.separado {
+    letter-spacing: 0.13em;
+    word-spacing: 0.13em;
+    text-align: center;
+}
+
+div.borde {
+    border: 0.1em solid rgba(128, 128, 128, 0.564);
+    margin: 0 2em 1em 0;
+    
+}
+
+
+.margin {
+    margin: 1em;
+    
+}
+.grad {
+    background-image: linear-gradient( rgba(200, 200, 200, 0.5), white, white, white, rgba(211, 211, 211, 0.5));
+}
+
+hr {
+    margin-top: -1.3em;
+}
+
+aside {
+    float: left;
+    width: 10em;
+}
+
+section {
+    float: left;
+    width: 46em;
+    border-width: 0.1em;
+}
+
+.button {
+    background-image: linear-gradient(to bottom, white, lightgreen);
+    border: 1px solid lightgray;
+    height: 2em;
+    width: 7em;
+    text-align: center;
+    padding-top: 0.75em;
+    margin: 0.5em;
+    list-style-type: none;
+}
+
+.selected {
+    background-image: linear-gradient(to bottom, white, rgba(255, 160, 122, 0.498)) ;
+}
+
+p.mb {
+    margin-bottom: 1.75em;
+}
+footer {
+    color: lightgray;
+    font-size: small;
+    text-align: center;
+}
+ul a:any-link {
+    color: rgba(0, 0, 0, 0.75);
+    text-decoration: none;
+}
+footer a:any-link {
+    color: lightgray;
+}

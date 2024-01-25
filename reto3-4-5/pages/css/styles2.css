@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    background-color: rgba(250, 200, 140, 0.5);
+    ;
+}
+
+.blue {
+    color: teal;
+}
+
+.em {
+    font-style: oblique;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#bg {
+    background-color: rgba(250, 200, 140, 0.2);
+}
+
+.noBullet {
+    list-style-type: none;
+}
