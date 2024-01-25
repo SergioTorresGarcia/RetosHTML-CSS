@@ -1,5 +1,6 @@
 <h2>Retos HTML y CSS</h2>
 
+Este repertorio es una colección de todos los archivos que he ido generando paso a paso.
 Puedes ver el resultado final aquí: https://sergiotorresgarcia.github.io/ParqueNatural/
 
 #Reto 1
